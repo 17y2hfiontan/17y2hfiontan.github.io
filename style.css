@@ -1,19 +1,19 @@
 h1 {
   font-family: Verdana, sans-serif;
-  colour: #C71585;
+  color: #C71585;
 }
 
 h2 {
   font-family: Verdana, sans-serif;
-  colour: #FF4500;
+  color: #FF4500;
 }
 
 p {
   font-family: Arial, sans-serif;
-  colour: #8B0000;
+  color: #8B0000;
 }
 
 img {
-  height: 225px;
-  width: 325px;
+  height: 250px;
+  width: 350px;
 }
